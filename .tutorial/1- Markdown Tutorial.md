@@ -1,6 +1,6 @@
 # 👋Welcome to markdown language tutorial
 
-### .md means markdown documents.
+#### Note: `.md` means markdown documents.
 
 
 ---
@@ -12,7 +12,8 @@
 - [List](#list-)
 - [Table](#table)
 - [Code block](#code-block)
-- [Header link](header-link)
+- [Header link](#header-link)
+- [ Horizontal rule](#horizontal-rule)
 ---
 
   
@@ -215,7 +216,7 @@ Demo (HTML):
 ---
 
 
-- ### Horizontal rule :
+- ### Horizontal rule:
 
 
   ```markdown
