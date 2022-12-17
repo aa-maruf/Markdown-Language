@@ -13,8 +13,8 @@
 - [Table](#table)
 - [Code block](#code-block)
 - [Header link](#header-link)
+- [Underline text](#Underline-text)
 - [ Horizontal rule](#horizontal-rule)
-- [Underline Text](#Underline-text)
 ---
 
   
@@ -43,11 +43,11 @@
 ```c
 Demo (Markdown):
 ```
-![Markdown Demo](./Images/Git-and-Github-bangla-YouTube.png)
+![Markdown Demo](./Images/Git-and-Github-bangla-tutorial-13-Markdown-crash-course-YouTube.png)
 ```c
 Demo (HTML):
 ```
-<img src ="./Images/Git-and-Github-bangla-YouTube.png" width="400" title="HTML Demo" />
+<img src ="./Images/Git-and-Github-bangla-tutorial-13-Markdown-crash-course-YouTube.png" width="400" title="HTML Demo" />
 
 ---
 
@@ -217,7 +217,7 @@ Demo (HTML):
 ---
 
 
-- ### Horizontal rule:
+- ### Horizontal rule :
 
 
   ```markdown
@@ -229,16 +229,18 @@ Demo (HTML):
 
 ---
 
+
 - ### Underline text :
-  `Demo:` <ins>" This is an underlined text "</ins>
+`Demo:`  <ins>" This is an underline text "</ins> 
 
   ```markdown
-  <!-- Markdown Syntax -->
-   <ins> Text </ins>
-
-
+  <!-- Markdown syntax -->
+  
+  <ins>Underlined text</ins>
+  
+  ```
+  
 ---
-
 
 
 
