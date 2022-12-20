@@ -86,6 +86,7 @@ Demo (HTML):
     **Bold**
     __Bold__
     ***Both***
+    ~~Strike through~~
    ```markdown
       <!--   Markdown syntax    -->
   
@@ -96,6 +97,8 @@ Demo (HTML):
     __Bold__
   
     ***Both***
+    
+    ~~Strike through~~
    ```
  
 
