@@ -14,7 +14,7 @@
 1. [Quote](#quote)
 2. [Image](#image-link)
 3. [Adding link](#adding-link)
-4. [Italic/bold alphabet](##italicbold--italic--bold)
+4. [Italic/bold alphabet](#italicbold--italic--bold)
 5. [Strikethrough](#Strikethrough)
 6. [Underline Text](#Underline-text)
 7. [List](#list)
