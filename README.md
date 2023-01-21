@@ -11,17 +11,17 @@
 
 ---
 ## Table of Contents:
-- [Quote](#quote)
-- [Image](#image-link)
-- [Adding link](#adding-link)
-- [Italic/bold alphabet](#italicbold-both-)
-- [Underline Text](#Underline-text)
-- [Strikethrough](#Strikethrough)
-- [List](#list)
-- [Table](#table)
-- [Code block](#code-block)
-- [Header link](#header-link)
-- [ Horizontal rule](#horizontal-rule)
+1. [Quote](#quote)
+2. [Image](#image-link)
+3. [Adding link](#adding-link)
+4. [Italic/bold alphabet](##italicbold--italic--bold)
+5. [Strikethrough](#Strikethrough)
+6. [Underline Text](#Underline-text)
+7. [List](#list)
+8. [Table](#table)
+9. [Code block](#code-block)
+1. [Header link](#header-link)
+1. [ Horizontal rule](#horizontal-rule)
 ---
 
   
@@ -110,7 +110,7 @@ Demo (HTML):
   <!-- Markdown Syntax -->
       ~~This text is strikethrough~~
   ```
-- ## <ins>Underline text </ins>:
+- ## <ins>Underline text</ins>:
   `Demo:` <ins>" This is an underlined text "</ins>
 
   ```markdown
