@@ -17,7 +17,7 @@
 - [Italic/bold alphabet](#italicbold-both-)
 - [Underline Text](#Underline-text)
 - [Strikethrough](#Strikethrough)
-- [List](#list-)
+- [List](#list)
 - [Table](#table)
 - [Code block](#code-block)
 - [Header link](#header-link)
@@ -25,7 +25,7 @@
 ---
 
   
- - ## <ins>Quote</ins> :
+ - ## <ins>Quote</ins>:
    
    > `>` sign is used for quote.
   >> `>>` is used for  nested quote.
@@ -36,7 +36,7 @@
 
 
 
-- ## <ins>Image Link</ins> :
+- ## <ins>Image Link</ins>:
 ```markdown
   <!--   Markdown syntax    -->
   ![Alt text](./Images/Git-and-Github-bangla-tutorial- 
@@ -58,7 +58,7 @@ Demo (HTML):
 
 
 
-- ## <ins>Adding link</ins> :
+- ## <ins>Adding link</ins>:
   - Automatic Link :
          `Demo:`www.facebook.com
     
@@ -86,7 +86,7 @@ Demo (HTML):
   
   
 
-- ## <ins>Italic/bold / Italic & bold </ins> :
+- ## <ins>Italic/bold / Italic & bold</ins>:
     `Demo:`
    _Italic_
     **Bold**
@@ -104,7 +104,7 @@ Demo (HTML):
     ***Italic & Bold***
    ```
  
-- ## <ins>Strikethrough</ins> :
+- ## <ins>Strikethrough</ins>:
   `Demo: `  ~~This text is strikethrough~~
   ```markdown
   <!-- Markdown Syntax -->
@@ -217,7 +217,7 @@ Demo (HTML):
 
 
 
-- ## <ins> Header Link </ins>:
+- ## <ins>Header Link</ins>:
 
 
     `Demo :` Clicking on [Table of Contents](#table-of-contents) will take you to the "Table of contents" header of this page.
