@@ -33,12 +33,12 @@
 - ### Image Link:
 ```markdown
   <!--   Markdown syntax    -->
-  ![Alt text](.Images/Git-and-Github-bangla-tutorial- 
+  ![Alt text](./Images/Git-and-Github-bangla-tutorial- 
  13-Markdown-crash-course-YouTube.png)
 ```
 ```html
  <!--   HTML syntax    -->
- <img src =".Images/Git-and-Github-bangla-tutorial-13- Markdown-crash-course-YouTube.png" width="400" title="Alt text" /> 
+ <img src ="./Images/Git-and-Github-bangla-tutorial-13- Markdown-crash-course-YouTube.png" width="400" title="Alt text" /> 
 ```
 ```c
 Demo (Markdown):

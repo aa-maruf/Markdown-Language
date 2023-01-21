@@ -1,6 +1,12 @@
-# 👋Welcome to markdown language tutorial
+# 🖐️ Hellooo! Welcome to markdown language tutorial
 
-#### Note: `.md` means markdown documents.
+## Description: 
+> ###  This repl is for describing [markdown language](https://en.wikipedia.org/wiki/Markdown "Wikipedia-about mardown language") . All the information on markdown language that I know are explained here.
+
+> #### Also this is written in markdown language too. [This is my code link](https://replit.com/@MARUF41/Replit-101-1#.tutorial "Replit Link").
+
+
+> #### Note: `.md` means markdown documents.
 
 
 ---
@@ -13,8 +19,8 @@
 - [Table](#table)
 - [Code block](#code-block)
 - [Header link](#header-link)
-- [Underline text](#Underline-text)
 - [ Horizontal rule](#horizontal-rule)
+- [Underline Text](#Underline-text)
 ---
 
   
@@ -33,21 +39,21 @@
 - ### Image Link:
 ```markdown
   <!--   Markdown syntax    -->
-  ![Alt text](.Images/Git-and-Github-bangla-tutorial- 
+  ![Alt text](./Images/Git-and-Github-bangla-tutorial- 
  13-Markdown-crash-course-YouTube.png)
 ```
 ```html
  <!--   HTML syntax    -->
- <img src =".Images/Git-and-Github-bangla-tutorial-13- Markdown-crash-course-YouTube.png" width="400" title="Alt text" /> 
+ <img src ="./Images/Git-and-Github-bangla-tutorial-13- Markdown-crash-course-YouTube.png" width="400" title="Alt text" /> 
 ```
 ```c
 Demo (Markdown):
 ```
-![Markdown Demo](./Images/Git-and-Github-bangla-tutorial-13-Markdown-crash-course-YouTube.png)
+![Markdown Demo](./Images/Git-and-Github-bangla-YouTube.png)
 ```c
 Demo (HTML):
 ```
-<img src ="./Images/Git-and-Github-bangla-tutorial-13-Markdown-crash-course-YouTube.png" width="400" title="HTML Demo" />
+<img src ="./Images/Git-and-Github-bangla-YouTube.png" width="400" title="HTML Demo" />
 
 ---
 
@@ -217,7 +223,7 @@ Demo (HTML):
 ---
 
 
-- ### Horizontal rule :
+- ### Horizontal rule:
 
 
   ```markdown
@@ -229,21 +235,26 @@ Demo (HTML):
 
 ---
 
-
 - ### Underline text :
-`Demo:`  <ins>" This is an underline text "</ins> 
+  `Demo:` <ins>" This is an underlined text "</ins>
 
   ```markdown
-  <!-- Markdown syntax -->
-  
-  <ins>Underlined text</ins>
-  
-  ```
-  
+  <!-- Markdown Syntax -->
+   <ins> Text </ins>
+
+
 ---
 
 
 
 
 
+
   
+
+  #####    🤜we can create \.draw file for drawing.
+
+
+---
+### Thank you 🙂
+
