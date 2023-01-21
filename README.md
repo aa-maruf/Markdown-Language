@@ -15,16 +15,17 @@
 - [Image](#image-link)
 - [Adding link](#adding-link)
 - [Italic/bold alphabet](#italicbold-both-)
+- [Underline Text](#Underline-text)
+- [Strikethrough](#Strikethrough)
 - [List](#list-)
 - [Table](#table)
 - [Code block](#code-block)
 - [Header link](#header-link)
 - [ Horizontal rule](#horizontal-rule)
-- [Underline Text](#Underline-text)
 ---
 
   
- - ### Quote
+ - ## <ins>Quote</ins> :
    
    > `>` sign is used for quote.
   >> `>>` is used for  nested quote.
@@ -33,10 +34,9 @@
 
  <!--    "  > " is used for quotes     -->
 
----
 
 
-- ### Image Link:
+- ## <ins>Image Link</ins> :
 ```markdown
   <!--   Markdown syntax    -->
   ![Alt text](./Images/Git-and-Github-bangla-tutorial- 
@@ -55,10 +55,10 @@ Demo (HTML):
 ```
 <img src ="./Images/Git-and-Github-bangla-YouTube.png" width="400" title="HTML Demo" />
 
----
 
 
-- ### Adding link:
+
+- ## <ins>Adding link</ins> :
   - Automatic Link :
          `Demo:`www.facebook.com
     
@@ -85,13 +85,13 @@ Demo (HTML):
   ```
   
   
----
-- ### Italic/bold /both :
+
+- ## <ins>Italic/bold / Italic & bold </ins> :
     `Demo:`
    _Italic_
     **Bold**
     __Bold__
-    ***Both***
+    ***Italic & Bold***
    ```markdown
       <!--   Markdown syntax    -->
   
@@ -101,15 +101,25 @@ Demo (HTML):
   
     __Bold__
   
-    ***Both***
+    ***Italic & Bold***
    ```
  
+- ## <ins>Strikethrough</ins> :
+  `Demo: `  ~~This text is strikethrough~~
+  ```markdown
+  <!-- Markdown Syntax -->
+      ~~This text is strikethrough~~
+  ```
+- ## <ins>Underline text </ins>:
+  `Demo:` <ins>" This is an underlined text "</ins>
+
+  ```markdown
+  <!-- Markdown Syntax -->
+   <ins> Text </ins>
+  ```
 
 
----
-
-
-- ### List :
+- ## <ins>List</ins>:
    - Ordered List
      
         ```markdown
@@ -123,7 +133,7 @@ Demo (HTML):
         1. two
         1. three
          
-  ---
+  
   
   - Unordered List :
     
@@ -138,7 +148,7 @@ Demo (HTML):
        - part 2
        - part 3
          
-  ---
+  
 
   - Task list :
     ```markdown
@@ -152,10 +162,9 @@ Demo (HTML):
     - [x] Topic 2
     - [ ] Topic 3
 
----
 
 
-- ### Table: 
+- ## <ins>Table</ins>: 
  ```markdown
     <!--   Markdown syntax    -->
     
@@ -171,10 +180,10 @@ Demo (HTML):
    | Mahdi Hasan | the.madhi.hasan@gmail.com |
    | Put your Name Here | Put email here |
    
----
 
 
-- ### Code block:
+
+- ## <ins>Code block</ins>:
   
   
    - Inline code block: Demo -> `Syntax`
@@ -205,10 +214,10 @@ Demo (HTML):
     ```  ///ending with 3  backtick
 
     ```
----
 
 
-- ### Header Link:
+
+- ## <ins> Header Link </ins>:
 
 
     `Demo :` Clicking on [Table of Contents](#table-of-contents) will take you to the "Table of contents" header of this page.
@@ -220,10 +229,10 @@ Demo (HTML):
     [Table of contents](#table-of-contents)
     
   ```
----
 
 
-- ### Horizontal rule:
+
+- ## <ins>Horizontal rule</ins>:
 
 
   ```markdown
@@ -233,28 +242,12 @@ Demo (HTML):
   ---
   ```
 
----
 
-- ### Underline text :
-  `Demo:` <ins>" This is an underlined text "</ins>
 
-  ```markdown
-  <!-- Markdown Syntax -->
-   <ins> Text </ins>
+
 
 
 ---
 
-
-
-
-
-
-  
-
-  #####    🤜we can create \.draw file for drawing.
-
-
----
 ### Thank you 🙂
 
