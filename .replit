@@ -63,3 +63,6 @@ pattern = "**/*.{cpp,h}"
 
 [languages.cpp.languageServer]
 start = "ccls"
+
+[nix]
+channel = "stable-22_11"
